@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://adamworkportfolio.wordpress.com/articles](https://adamworkportfolio.wordpress.com/articles)
 
-- 💬 Ask me about **help with websites**
+
 
 - 📫 How to reach me **adam.webtools@gmail.com**
 
