@@ -1,67 +1,29 @@
+<h1 align="center">Hi 👋, I'm Adam</h1>
+<h3 align="center">A student, developer, and a teacher</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bashamega&label=Profile%20views&color=0e75b6&style=flat" alt="bashamega" /> </p>
 
-# Hi there, I'm Basha [codeSTACKr][youtube] 👋 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashamega" alt="bashamega" /></a> </p>
 
+- 🌱 I’m currently learning **Java script**
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+- 👨‍💻 All of my projects are available at [https://adamworkportfolio.wordpress.com/projects/](https://adamworkportfolio.wordpress.com/projects/)
 
+- 📝 I regularly write articles on [https://adamworkportfolio.wordpress.com/articles](https://adamworkportfolio.wordpress.com/articles)
 
+- 💬 Ask me about **help with websites**
 
-## I'm a student, developer, and a teacher!!
+- 📫 How to reach me **adam.webtools@gmail.com**
 
-- 👋 Hi, I’m @Bashamega
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java script
-- 💞️ I’m looking to collaborate on helping others
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/bashamega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bashamega" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/basha coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="basha coder" height="30" width="40" /></a>
+</p>
 
-### Connect with me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashamega&show_icons=true&locale=en&layout=compact" alt="bashamega" /></p>
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-
-
-<br />
-<br />
-
----
-
-
-
-
-<!-- BLOG-POST-LIST:END -->
-
-
-
----
-
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://adamworkportfolio.wordpress.com/
-[course]: https://adamworkportfolio.wordpress.com/courses/
-[youtube]: https://www.youtube.com/@bashacoder
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLqleSMERq9vvFwwVm4dqJVAsq0ShMZ2zO
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bashamega&show_icons=true&locale=en" alt="bashamega" /></p>
