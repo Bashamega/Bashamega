@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adam.webtools@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Accounts</h3>
 <p align="left">
 <a href="https://codepen.io/bashamega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bashamega" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/basha coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="basha coder" height="30" width="40" /></a>
