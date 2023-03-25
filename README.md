@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently learning **Java script**
 
-- 👨‍💻 All of my projects are available at [https://adamworkportfolio.wordpress.com/projects/](https://adamworkportfolio.wordpress.com/projects/)
+- 👨‍💻 All of my projects are available at [https://Adambashaahmednaji.com//projects/](https://Adambashaahmednaji.com/projects/)
 
-- 📝 I regularly write articles on [https://adamworkportfolio.wordpress.com/articles](https://adamworkportfolio.wordpress.com/articles)
+- 📝 I regularly write articles on [https://Adambashaahmednaji.com/articles](https://Adambashaahmednaji.com/articles
 
 
-
-- 📫 How to reach me **adam.webtools@gmail.com**
+- 📫 How to reach me **adam@Adambashaahmednaji.com**
 
 <h3 align="left">Accounts</h3>
 <p align="left">
