@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://Adambashaahmednaji.com//projects/](https://Adambashaahmednaji.com/projects/)
 
-- 📝 I regularly write articles on [https://Adambashaahmednaji.com/articles](https://Adambashaahmednaji.com/articles
+- 📝 I regularly write articles on [https://Adambashaahmednaji.com/articles](https://Adambashaahmednaji.com/articles)
 
 
 - 📫 How to reach me **adam@Adambashaahmednaji.com**
