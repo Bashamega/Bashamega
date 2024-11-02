@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashamega&label=Profile%20views&color=0e75b6&style=flat" alt="bashamega" /> </p>
   <a href="https://discord.gg/fHQv7EXEGF">
-    <img src="https://img.shields.io/discord/1296806270585802863?logo=discord&style=for-the-badge&color=404EED" alt="EddieHub Discord"/>
+    <img src="https://img.shields.io/discord/1296806270585802863?logo=discord&style=for-the-badge&color=404EED" alt="Bashamega Discord"/>
   </a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashamega" alt="bashamega" /></a> </p>
 
