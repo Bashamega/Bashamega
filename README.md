@@ -24,7 +24,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,next,tailwind,sass,ts,vite,react,firebase,git,github,md,vscode,wordpress,py,dart,nodejs,bots,devto,express,nest,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,next,tailwind,sass,ts,vite,react,firebase,git,github,md,vscode,wordpress,py,nodejs,bots,devto,express,nest,docker)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bashamega&show_icons=true&locale=en&layout=compact" alt="bashamega" /></p>
